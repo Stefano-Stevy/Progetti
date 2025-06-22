@@ -1,0 +1,3 @@
+[submodule "MyMusic"]
+	path = MyMusic
+	url = https://github.com/Stefano-Stevy/MyMusic.git
