@@ -1,3 +1,6 @@
 [submodule "MyMusic"]
 	path = MyMusic
 	url = https://github.com/Stefano-Stevy/MyMusic.git
+[submodule "Basi-di-dati"]
+	path = Basi-di-dati
+	url = https://github.com/Stefano-Stevy/Basi-di-dati
