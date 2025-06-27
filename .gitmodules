@@ -4,3 +4,6 @@
 [submodule "Basi-di-dati"]
 	path = Basi-di-dati
 	url = https://github.com/Stefano-Stevy/Basi-di-dati
+[submodule "Reti-Informatiche"]
+	path = Reti-Informatiche
+	url = https://github.com/Stefano-Stevy/Reti-Informatiche.git
