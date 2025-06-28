@@ -10,3 +10,6 @@
 [submodule "Progettazione-Web"]
 	path = Progettazione-Web
 	url = https://github.com/Stefano-Stevy/Progettazione-Web.git
+[submodule "Programmazione-Avanzata"]
+	path = Programmazione-Avanzata
+	url = https://github.com/Stefano-Stevy/Programmazione-Avanzata.git
